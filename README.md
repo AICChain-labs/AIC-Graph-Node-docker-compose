@@ -1,6 +1,6 @@
 # AIC Graph Node Container Deployment Instructions
 
-This document is responsible for creating and running the basic AIC Graph Node services (`postgres`, `ipfs`, `graph-node`). It does not include subgraph deployment steps.
+This document is responsible for creating and running the basic AIC Graph Node services (`postgres`, `ipfs`, `graph-node`).
 
 Applicable Environment:
 - AIC RPC: `YOUR_RPC_URL`
